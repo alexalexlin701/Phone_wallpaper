@@ -37,4 +37,4 @@ For a fresh clone, install JDK 17 and Android SDK platform 36 (or open the proje
 
 APK: `app/build/outputs/apk/debug/app-debug.apk`. Update-install to preserve selections and completed renders.
 
-No internet permission, analytics, broad storage access, or uploads. Access to the imported video uses a persistent SAF read grant. Derived video files remain in private app storage and are excluded from backup. See TESTING.md and BUILD_REPORT.md for verification and device limitations.
+No internet permission, analytics, broad storage access, or uploads. Access to the imported video uses a persistent SAF read grant. Derived video files remain in private app storage and are excluded from backup. See TESTING.md for verification and device limitations.
