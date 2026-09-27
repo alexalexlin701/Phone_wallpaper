@@ -1,0 +1,22 @@
+.gradle/
+.kotlin/
+.idea/
+.tools/
+**/build/
+local.properties
+*.iml
+
+# Local credentials and signing material
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+key.properties
+keystore.properties
+
+# Generated application packages
+*.apk
+*.aab

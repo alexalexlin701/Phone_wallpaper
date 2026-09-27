@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Video Wallpaper</string>
+    <string name="wallpaper_description">Your local video, playing silently in a loop.</string>
+    <string name="select_video">Select Video</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="selected_video">Selected video:</string>
+    <string name="no_video_selected">No video selected.</string>
+    <string name="video_unavailable">The selected video is no longer available. Select a video again.</string>
+    <string name="video_unsupported">Unable to play this video. The file may be unavailable or its format unsupported by this device.</string>
+    <string name="video_ready">Silent preview • continuous loop</string>
+    <string name="permission_failed">This provider could not grant lasting access. Choose a video from local device storage.</string>
+    <string name="wallpaper_preview_unavailable">The system could not open Live Wallpaper preview.</string>
+    <string name="picker_unavailable">The system document picker is unavailable.</string>
+    <string name="unknown_video">Selected video</string>
+    <string name="preview_description">Selected video preview</string>
+    <string name="local_hint">Choose a video stored on this device. Android controls the available wallpaper destinations.</string>
+</resources>
